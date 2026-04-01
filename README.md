@@ -6,7 +6,7 @@ This project showcases different car models with a clean design and smooth user 
 ---
 
 ## 🚀 Live Demo
-🔗 https://ps-carshowroom.netlify.app
+🔗 https://ps-carshowroom-website.netlify.app
 
 ---
 
