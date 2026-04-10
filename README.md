@@ -1,8 +1,8 @@
 # 🚗 PS Car Showroom Website
 
 A modern and responsive Car Showroom Website built using HTML, CSS, and JavaScript.  
-This project showcases different car models with a clean design and smooth user experience.
-
+This project showcases different car models with a clean design and smooth user experience..
+  
 ---
 
 ## 🚀 Live Demo
